@@ -13,6 +13,7 @@
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2020|ECCV|[Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700460.pdf)|Road Detection||
+|2020|ECCV|[Polarized Optical-Flow Gyroscope](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2559_ECCV_2020_paper.php)|Gyroscope||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|App|Repo|
