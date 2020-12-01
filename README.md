@@ -10,7 +10,7 @@
 - Polarizaiton Imaging (DL)
 
 ## Polarization Imaging (non-DL)
-|Year|Pub|Paper|Repo|
+|Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|
 |2020|ECCV|[Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700460.pdf)|Road Detection||
 
