@@ -8,7 +8,7 @@
 
 - [Polarizaiton Imaging (non-DL)](polarizaiton-imaging-non-dl)
 - Polarizaiton Imaging (DL)
-- Miscellaneous
+- Miscellaneous(miscellaneous)
 
 ## Polarization Imaging (non-DL)
 |Year|Pub|Paper|App|Repo|
