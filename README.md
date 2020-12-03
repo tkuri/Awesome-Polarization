@@ -13,6 +13,7 @@
 ## Polarization Imaging (non-DL)
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
+|2018|CVPR|[Polarimetric Dense Monocular SLAM](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_Polarimetric_Dense_Monocular_CVPR_2018_paper.html)|SLAM||
 |2018|SIGGRAPH ASIA|[Simultaneous Acquisition of Polarimetric SVBRDF and Normals](http://vclab.kaist.ac.kr/siggraphasia2018p2/index.html)|Rendering / 3D Shape||
 |2019|CVPR|[Polarimetric Camera Calibration Using an LCD Monitor](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Polarimetric_Camera_Calibration_Using_an_LCD_Monitor_CVPR_2019_paper.html)|Calibration||
 |2019|ICCV|[Polarimetric Relative Pose Estimation](https://www.microsoft.com/en-us/research/publication/polarimetric-relative-pose-estimation/)|Pose Estimation||
