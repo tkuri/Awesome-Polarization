@@ -6,8 +6,8 @@
 
 ## Table of contents
 
-- [Polarizaiton Imaging (non-DL)](#polarizaiton-imaging-non-dl)
-- [Polarizaiton Imaging (DL)](#polarizaiton-imaging-dl)
+- [Polarizaiton Imaging (non-DL)](#polarization-imaging-non-dl)
+- [Polarizaiton Imaging (DL)](#polarization-imaging-dl)
 - [Miscellaneous](#miscellaneous)
 
 ## Polarization Imaging (non-DL)
