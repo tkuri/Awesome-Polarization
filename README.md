@@ -43,10 +43,15 @@
 |2020|ECCV|[Reflection Separation via Multi-bounce Polarization State Tracing](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2055_ECCV_2020_paper.php)|Reflection Separation||
 |2020|ECCV|[3D Human Shape Reconstruction from a Polarization Image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2136_ECCV_2020_paper.php)|3D Human Shape|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
 
-## Miscellaneous
+## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2013|SIGGRAPH|[A Reconfigurable Camera Add-On for High-Dynamic-Range, Multi-Spectral, Polarization, and Light-Field Imaging](https://hal.inria.fr/hal-00835898/document)|Reconfigurable Camera||
 |2019|Journal of Modern Optics|[Polarimetric imaging method for target enhancement in haze based on polarimetric retrieval](https://www.tandfonline.com/doi/abs/10.1080/09500340.2019.1610520?journalCode=tmop20)|Dehazing||
 |2020|Arxiv|[Polarization Human Pose and Shape Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|Dataset|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
+
+## Miscellaneous (DL)
+|Year|Pub|Paper|Obj|Repo|
+|:---:|:---:|:---:|:---:|:---:|
+|2019|Monthly Notices of the Royal Astronomical Society|[Eliminating artefacts in polarimetric images using deep learning](https://academic.oup.com/mnras/article-abstract/491/4/5151/5645251?redirectedFrom=fulltext)|Removing Artifact||
 |2020|Optics Express|[Learning-based denoising for polarimetric images](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-11-16309&id=431808)|Denoising||
