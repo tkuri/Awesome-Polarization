@@ -53,6 +53,7 @@
 |2019|Light: Science & Applications|[Nature-inspired chiral metasurfaces for circular polarization detection and full-Stokes polarimetric measurements](https://www.nature.com/articles/s41377-019-0184-4)|Sensor||
 |2019|Journal of Modern Optics|[Polarimetric imaging method for target enhancement in haze based on polarimetric retrieval](https://www.tandfonline.com/doi/abs/10.1080/09500340.2019.1610520?journalCode=tmop20)|Dehazing||
 |2020|Arxiv|[Polarization Human Pose and Shape Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|Dataset|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
+|2020|Arxiv|[Observation of geometric phase for unpolarized and partially polarized light fields](https://arxiv.org/abs/2007.08114)|Theory||
 
 ## Miscellaneous (DL)
 |Year|Pub|Paper|Obj|Repo|
