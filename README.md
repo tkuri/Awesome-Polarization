@@ -15,6 +15,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2010|SIGGRAPH ASIA|[Circularly Polarized Spherical Illumination Reflectometry](https://ict.usc.edu/pubs/Circularly%20Polarized%20Spherical%20Illumination%20Reflectometry.pdf)|Rendering||
 |2011|SIGGRAPH ASIA|[Multiview Face Capture using Polarized Spherical Gradient Illumination](https://ict.usc.edu/pubs/Multiview%20Face%20Capture%20using%20Polarized%20Spherical%20Gradient%20Illumination.pdf)|Rendering / 3D Shape||
+|2015|CVPR|[Shape and Light Directions From Shading and Polarization](https://openaccess.thecvf.com/content_cvpr_2015/html/Thanh_Shape_and_Light_2015_CVPR_paper.html|Rendering / 3D Shape||
 |2015|ICCV|[Polarized 3D: Depth Sensing with Polarization Cues](https://web.media.mit.edu/~achoo/polar3D/)|3D Shape|[Code & Dataset](https://web.media.mit.edu/~achoo/polar3D/)|
 |2017|CVPR|[Polarimetric Multi-View Stereo](https://zhpcui.github.io/projects/polarstereo/)|3D Shape||
 |2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](http://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)|Rendering||
