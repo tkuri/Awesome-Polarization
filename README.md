@@ -14,6 +14,7 @@
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2017|CVPR|[Polarimetric Multi-View Stereo](https://zhpcui.github.io/projects/polarstereo/)|3D Shape||
+|2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](http://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)|Rendering||
 |2018|CVPR|[Polarimetric Dense Monocular SLAM](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_Polarimetric_Dense_Monocular_CVPR_2018_paper.html)|SLAM||
 |2018|ECCV|[Polarimetric Three-View Geometry](https://openaccess.thecvf.com/content_ECCV_2018/html/Lixiong_Chen_Polarimetric_Three-View_Geometry_ECCV_2018_paper.html)|Camera Pose Estimation||
 |2018|SIGGRAPH ASIA|[Simultaneous Acquisition of Polarimetric SVBRDF and Normals](http://vclab.kaist.ac.kr/siggraphasia2018p2/index.html)|Rendering / 3D Shape||
