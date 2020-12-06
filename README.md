@@ -18,6 +18,7 @@
 |2015|CVPR|[Shape and Light Directions From Shading and Polarization](https://openaccess.thecvf.com/content_cvpr_2015/html/Thanh_Shape_and_Light_2015_CVPR_paper.html)|Rendering / 3D Shape||
 |2015|ICCV|[Polarized 3D: Depth Sensing with Polarization Cues](https://web.media.mit.edu/~achoo/polar3D/)|3D Shape|[Code & Dataset](https://web.media.mit.edu/~achoo/polar3D/)|
 |2017|CVPR|[Polarimetric Multi-View Stereo](https://zhpcui.github.io/projects/polarstereo/)|3D Shape||
+|2017|ICCV|[A Lightweight Single-Camera Polarization Compass With Covariance Estimation](https://openaccess.thecvf.com/content_iccv_2017/html/Sturzl_A_Lightweight_Single-Camera_ICCV_2017_paper.html)|Compass||
 |2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](http://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)|Rendering||
 |2018|CVPR|[Polarimetric Dense Monocular SLAM](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_Polarimetric_Dense_Monocular_CVPR_2018_paper.html)|SLAM||
 |2018|ECCV|[Polarimetric Three-View Geometry](https://openaccess.thecvf.com/content_ECCV_2018/html/Lixiong_Chen_Polarimetric_Three-View_Geometry_ECCV_2018_paper.html)|Camera Pose Estimation||
