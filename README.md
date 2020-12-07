@@ -53,7 +53,6 @@
 |2019|Light: Science & Applications|[Nature-inspired chiral metasurfaces for circular polarization detection and full-Stokes polarimetric measurements](https://www.nature.com/articles/s41377-019-0184-4)|Sensor||
 |2019|Journal of Modern Optics|[Polarimetric imaging method for target enhancement in haze based on polarimetric retrieval](https://www.tandfonline.com/doi/abs/10.1080/09500340.2019.1610520?journalCode=tmop20)|Dehazing||
 |2019|Optics Letters|[Three-dimensional polarimetric integral imaging under low illumination conditions](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-13-3230)|Integral Imaging||
-|2020|Arxiv|[Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario](https://arxiv.org/abs/2003.08024)|Face Anti-Spoofing||
 |2020|Arxiv|[Polarization Human Pose and Shape Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|Dataset|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
 |2020|Arxiv|[Observation of geometric phase for unpolarized and partially polarized light fields](https://arxiv.org/abs/2007.08114)|Theory||
 
@@ -61,4 +60,5 @@
 |Year|Pub|Paper|Obj|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2019|Monthly Notices of the Royal Astronomical Society|[Eliminating artefacts in polarimetric images using deep learning](https://academic.oup.com/mnras/article-abstract/491/4/5151/5645251?redirectedFrom=fulltext)|Removing Artifact||
+|2020|Arxiv|[Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario](https://arxiv.org/abs/2003.08024)|Face Anti-Spoofing||
 |2020|Optics Express|[Learning-based denoising for polarimetric images](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-11-16309&id=431808)|Denoising||
