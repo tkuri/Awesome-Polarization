@@ -55,6 +55,7 @@
 |2014|SPIE|[An overview of polarimetric sensing techniques and technology with applications to different research fields](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9099/90990B/An-overview-of-polarimetric-sensing-techniques-and-technology-with-applications/10.1117/12.2053245.short)|Survey (General)||
 |2015|Optics Express|[Polarimetric 3D integral imaging in photon-starved conditions](https://ieeexplore.ieee.org/document/7838378)|Integral Imaging||
 |2015|IEDM|[Four-directional pixel-wise polarization CMOS image sensor using air-gap wire grid on 2.5-μm back-illuminated pixels](https://ieeexplore.ieee.org/document/7838378)|Sensor||
+|2016|Arxiv|[Shape from Mixed Polarization](https://arxiv.org/abs/1605.02066)|3D Shape||
 |2016|SPIE|[Estimation of the degree of polarization in low-light 3D integral imaging](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-23-5-6408&id=312580)|Integral Imaging||
 |2017|International Journal of Computer Vision|[Depth Sensing Using Geometrically Constrained Polarization Normals](https://link.springer.com/article/10.1007/s11263-017-1025-7)|3D Shape||
 |2018|The Science of Nature|[Polarisation vision: overcoming challenges of working with a property of light we barely see](https://link.springer.com/article/10.1007/s00114-018-1551-3)|Survey (General)||
