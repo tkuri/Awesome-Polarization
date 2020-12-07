@@ -58,13 +58,13 @@
 |2016|SPIE|[Estimation of the degree of polarization in low-light 3D integral imaging](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-23-5-6408&id=312580)|Integral Imaging||
 |2017|International Journal of Computer Vision|[Depth Sensing Using Geometrically Constrained Polarization Normals](https://link.springer.com/article/10.1007/s11263-017-1025-7)|3D Shape||
 |2018|The Science of Nature|[Polarisation vision: overcoming challenges of working with a property of light we barely see](https://link.springer.com/article/10.1007/s00114-018-1551-3)|Survey (General)||
-|2018|Sensors (Basel)|[Survey of Demosaicking Methods for Polarization Filter Array Images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6263621/)|Demosaic||
+|2018|Sensors (Basel)|[Survey of Demosaicking Methods for Polarization Filter Array Images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6263621/)|Demosaicking||
 |2019|Light: Science & Applications|[Nature-inspired chiral metasurfaces for circular polarization detection and full-Stokes polarimetric measurements](https://www.nature.com/articles/s41377-019-0184-4)|Sensor||
 |2019|Light: Science & Applications|[Circularly and elliptically polarized light under water and the Umov effect](https://www.nature.com/articles/s41377-019-0143-0)|Theory||
 |2019|Journal of Modern Optics|[Polarimetric imaging method for target enhancement in haze based on polarimetric retrieval](https://www.tandfonline.com/doi/abs/10.1080/09500340.2019.1610520?journalCode=tmop20)|Dehazing||
 |2019|Optics Letters|[Three-dimensional polarimetric integral imaging under low illumination conditions](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-13-3230)|Integral Imaging||
 |2019|Bioinspiration & Biomimetics|[Noise creates polarization artefacts](https://iopscience.iop.org/article/10.1088/1748-3190/aa9e22)|Denoising||
-|2019|VMV|[Polarization Demosaicking for Monochrome and Color Polarization Focal Plane Arrays](https://diglib.eg.org/handle/10.2312/vmv20191325)|Demosaic||
+|2019|VMV|[Polarization Demosaicking for Monochrome and Color Polarization Focal Plane Arrays](https://diglib.eg.org/handle/10.2312/vmv20191325)|Demosaicking||
 |2019|IEEE Sensors Journal|[Polarized Light-Based Cancer Cell Detection Techniques: A Review](https://ieeexplore.ieee.org/document/8744376)|Cancer Cell Detection||
 |2020|Arxiv|[Polarization Human Pose and Shape Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|Dataset|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
 |2020|Arxiv|[Observation of geometric phase for unpolarized and partially polarized light fields](https://arxiv.org/abs/2007.08114)|Theory||
