@@ -73,4 +73,5 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2019|Monthly Notices of the Royal Astronomical Society|[Eliminating artefacts in polarimetric images using deep learning](https://academic.oup.com/mnras/article-abstract/491/4/5151/5645251?redirectedFrom=fulltext)|Removing Artifact||
 |2020|Arxiv|[Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario](https://arxiv.org/abs/2003.08024)|Face Anti-Spoofing||
+|2020|Arxiv|[Polarimetric image augmentation](https://arxiv.org/abs/2005.11044)|Augmentation||
 |2020|Optics Express|[Learning-based denoising for polarimetric images](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-11-16309&id=431808)|Denoising||
