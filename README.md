@@ -47,6 +47,7 @@
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
 |:---:|:---:|:---:|:---:|:---:|
+|2012|Optics Express|[Three-dimensional polarimetric computational integral imaging](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-20-14-15481&id=239071|Integral Imaging||
 |2013|SIGGRAPH|[A Reconfigurable Camera Add-On for High-Dynamic-Range, Multi-Spectral, Polarization, and Light-Field Imaging](https://hal.inria.fr/hal-00835898/document)|Reconfigurable Camera||
 |2015|IEDM|[Four-directional pixel-wise polarization CMOS image sensor using air-gap wire grid on 2.5-μm back-illuminated pixels](https://ieeexplore.ieee.org/document/7838378)|Sensor||
 |2016|SPIE Commercial + Scientific Sensing and Imaging|[Estimation of the degree of polarization in low-light 3D integral imaging](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9867/98670C/Estimation-of-the-degree-of-polarization-in-low-light-3D/10.1117/12.2225482.short)|Integral Imaging||
