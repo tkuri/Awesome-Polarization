@@ -64,6 +64,7 @@
 |2019|Journal of Modern Optics|[Polarimetric imaging method for target enhancement in haze based on polarimetric retrieval](https://www.tandfonline.com/doi/abs/10.1080/09500340.2019.1610520?journalCode=tmop20)|Dehazing||
 |2019|Optics Letters|[Three-dimensional polarimetric integral imaging under low illumination conditions](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-13-3230)|Integral Imaging||
 |2019|Bioinspiration & Biomimetics|[Noise creates polarization artefacts](https://iopscience.iop.org/article/10.1088/1748-3190/aa9e22)|Denoising||
+|2019|VMV|[Polarization Demosaicking for Monochrome and Color Polarization Focal Plane Arrays](https://diglib.eg.org/handle/10.2312/vmv20191325)|Demosaic||
 |2019|IEEE Sensors Journal|[Polarized Light-Based Cancer Cell Detection Techniques: A Review](https://ieeexplore.ieee.org/document/8744376)|Cancer Cell Detection||
 |2020|Arxiv|[Polarization Human Pose and Shape Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|Dataset|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
 |2020|Arxiv|[Observation of geometric phase for unpolarized and partially polarized light fields](https://arxiv.org/abs/2007.08114)|Theory||
