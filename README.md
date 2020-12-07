@@ -53,6 +53,7 @@
 |2015|Optics Express|[Polarimetric 3D integral imaging in photon-starved conditions](https://ieeexplore.ieee.org/document/7838378)|Integral Imaging||
 |2015|IEDM|[Four-directional pixel-wise polarization CMOS image sensor using air-gap wire grid on 2.5-μm back-illuminated pixels](https://ieeexplore.ieee.org/document/7838378)|Sensor||
 |2016|SPIE|[Estimation of the degree of polarization in low-light 3D integral imaging](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-23-5-6408&id=312580)|Integral Imaging||
+|2017|International Journal of Computer Vision|[Depth Sensing Using Geometrically Constrained Polarization Normals](https://link.springer.com/article/10.1007/s11263-017-1025-7)|3D Shape||
 |2018|The Science of Nature|[Polarisation vision: overcoming challenges of working with a property of light we barely see](https://link.springer.com/article/10.1007/s00114-018-1551-3)|Survey (General)||
 |2019|Light: Science & Applications|[Nature-inspired chiral metasurfaces for circular polarization detection and full-Stokes polarimetric measurements](https://www.nature.com/articles/s41377-019-0184-4)|Sensor||
 |2019|Journal of Modern Optics|[Polarimetric imaging method for target enhancement in haze based on polarimetric retrieval](https://www.tandfonline.com/doi/abs/10.1080/09500340.2019.1610520?journalCode=tmop20)|Dehazing||
