@@ -47,6 +47,7 @@
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
 |:---:|:---:|:---:|:---:|:---:|
+|2006|IEEE Transactions on Image Processing|[Recovery of surface orientation from diffuse polarization](https://ieeexplore.ieee.org/document/1632218)|3D Shape||
 |2009|TPAMI|[Active Polarization Descattering](https://ieeexplore.ieee.org/document/4483798)|Descattering||
 |2010|SCCG|[A standardised polarisation visualisation for images](https://dl.acm.org/doi/10.1145/1925059.1925070)|Visualization||
 |2012|Optics Express|[Three-dimensional polarimetric computational integral imaging](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-20-14-15481&id=239071)|Integral Imaging||
