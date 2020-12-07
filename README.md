@@ -47,6 +47,7 @@
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
 |:---:|:---:|:---:|:---:|:---:|
+|2010|SCCG|[A standardised polarisation visualisation for images](https://dl.acm.org/doi/10.1145/1925059.1925070)|Visualization||
 |2012|Optics Express|[Three-dimensional polarimetric computational integral imaging](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-20-14-15481&id=239071)|Integral Imaging||
 |2013|SIGGRAPH|[A Reconfigurable Camera Add-On for High-Dynamic-Range, Multi-Spectral, Polarization, and Light-Field Imaging](https://hal.inria.fr/hal-00835898/document)|Reconfigurable Camera||
 |2014|SPIE|[An overview of polarimetric sensing techniques and technology with applications to different research fields](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9099/90990B/An-overview-of-polarimetric-sensing-techniques-and-technology-with-applications/10.1117/12.2053245.short)|Survey (General)||
