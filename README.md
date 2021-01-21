@@ -26,6 +26,7 @@
 |2018|ECCV|[Polarimetric Three-View Geometry](https://openaccess.thecvf.com/content_ECCV_2018/html/Lixiong_Chen_Polarimetric_Three-View_Geometry_ECCV_2018_paper.html)|Camera Pose Estimation||
 |2018|SIGGRAPH ASIA|[Simultaneous Acquisition of Polarimetric SVBRDF and Normals](http://vclab.kaist.ac.kr/siggraphasia2018p2/index.html)|Rendering / 3D Shape||
 |2019|CVPR|[Polarimetric Camera Calibration Using an LCD Monitor](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Polarimetric_Camera_Calibration_Using_an_LCD_Monitor_CVPR_2019_paper.html)|Calibration||
+|2019|CVPR|[Depth from a polarisation + RGB stereo pair](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Depth_From_a_Polarisation__RGB_Stereo_Pair_CVPR_2019_paper.html)|3D Shape|[Code & Dataset](https://github.com/AmosZhu/CVPR2019)|
 |2019|ICCV|[Polarimetric Relative Pose Estimation](https://www.microsoft.com/en-us/research/publication/polarimetric-relative-pose-estimation/)|Pose Estimation||
 |2020|CVPR|[Polarized Non-Line-of-Sight Imaging](https://openaccess.thecvf.com/content_CVPR_2020/html/Tanaka_Polarized_Non-Line-of-Sight_Imaging_CVPR_2020_paper.html)|NLOS||
 |2020|SIGGRAPH|[Image-Based Acquisition and Modeling of Polarimetric Reflectance](http://vclab.kaist.ac.kr/siggraph2020/index.html)|Rendering|[Dataset](http://vclab.kaist.ac.kr/siggraph2020/pbrdfdataset/kaistdataset.html)|
