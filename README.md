@@ -71,6 +71,9 @@
 |2019|IEEE Sensors Journal|[Polarized Light-Based Cancer Cell Detection Techniques: A Review](https://ieeexplore.ieee.org/document/8744376)|Cancer Cell Detection||
 |2020|Arxiv|[Polarization Human Pose and Shape Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|Dataset|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
 |2020|Arxiv|[Observation of geometric phase for unpolarized and partially polarized light fields](https://arxiv.org/abs/2007.08114)|Theory||
+|2020|TIP|[A New Polarization Image Demosaicking Algorithm by Exploiting Inter-Channel Correlations With Guided Filtering](https://ieeexplore.ieee.org/document/9107421)|Demosaicking||
+|2021|Arxiv|[Polarimetric Monocular Dense Mapping Using Relative Deep Depth Prior](https://arxiv.org/abs/2102.05212v1)|3D Shape||
+|2021|Arxiv|[Polarization Guided Specular Reflection Separation](https://arxiv.org/abs/2103.11652v1)|Reflection Separation||
 
 ## Miscellaneous (DL)
 |Year|Pub|Paper|Obj|Repo|
