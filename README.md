@@ -44,6 +44,7 @@
 |2020|ECCV|[Deep Shape from Polarization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4676_ECCV_2020_paper.php)|3D Shape|[Dataset](https://visual.ee.ucla.edu/deepsfp.htm)|
 |2020|ECCV|[Reflection Separation via Multi-bounce Polarization State Tracing](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2055_ECCV_2020_paper.php)|Reflection Separation||
 |2020|ECCV|[3D Human Shape Reconstruction from a Polarization Image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2136_ECCV_2020_paper.php)|3D Human Shape|[Code](https://github.com/JimmyZou/PolarHumanPoseShape) / [Dataset](https://jimmyzou.github.io/publication/2020-PHSPDataset)|
+|2021|CVPR|[Deep Polarization Imaging for 3D shape and SVBRDF Acquisition](https://arxiv.org/abs/2105.02875v1)|Rendering / 3D Shape||
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
