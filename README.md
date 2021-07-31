@@ -33,6 +33,7 @@
 |2020|ECCV|[Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700460.pdf)|Road Detection||
 |2020|ECCV|[Polarized Optical-Flow Gyroscope](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2559_ECCV_2020_paper.php)|Gyroscope||
 |2020|ECCV|[Polarimetric Multi-View Inverse Rendering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4522_ECCV_2020_paper.php)|3D Shape||
+|2021|CVPR|[Polarimetric Normal Stereo](https://openaccess.thecvf.com/content/CVPR2021/papers/Fukao_Polarimetric_Normal_Stereo_CVPR_2021_paper.pdf)|3D Shape||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|App|Repo|
@@ -75,6 +76,8 @@
 |2020|TIP|[A New Polarization Image Demosaicking Algorithm by Exploiting Inter-Channel Correlations With Guided Filtering](https://ieeexplore.ieee.org/document/9107421)|Demosaicking||
 |2021|Arxiv|[Polarimetric Monocular Dense Mapping Using Relative Deep Depth Prior](https://arxiv.org/abs/2102.05212v1)|3D Shape||
 |2021|Arxiv|[Polarization Guided Specular Reflection Separation](https://arxiv.org/abs/2103.11652v1)|Reflection Separation||
+|2021|Arxiv|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
+|2021|OSA|[Analysis of signal-to-noise ratio of angle of polarization and degree of polarization](https://www.osapublishing.org/osac/fulltext.cfm?uri=osac-4-5-1461&id=450463)|Theory||
 
 ## Miscellaneous (DL)
 |Year|Pub|Paper|Obj|Repo|
