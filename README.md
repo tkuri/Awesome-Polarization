@@ -78,6 +78,7 @@
 |2021|Arxiv|[Polarization Guided Specular Reflection Separation](https://arxiv.org/abs/2103.11652v1)|Reflection Separation||
 |2021|Arxiv|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
 |2021|OSA|[Analysis of signal-to-noise ratio of angle of polarization and degree of polarization](https://www.osapublishing.org/osac/fulltext.cfm?uri=osac-4-5-1461&id=450463)|Theory||
+|2021|Arxiv|[Next-generation perception system for automated defects detection in composite laminates via polarized computational imaging](https://arxiv.org/abs/2108.10819)|Defects Detection||
 
 ## Miscellaneous (DL)
 |Year|Pub|Paper|Obj|Repo|
