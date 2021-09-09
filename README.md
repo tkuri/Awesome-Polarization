@@ -87,3 +87,4 @@
 |2020|Arxiv|[Polarimetric image augmentation](https://arxiv.org/abs/2005.11044)|Augmentation||
 |2020|Optics Express|[Learning-based denoising for polarimetric images](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-11-16309&id=431808)|Denoising||
 |2020|Arxiv|[Polarization-driven Semantic Segmentation via Efficient Attention-bridged Fusion](https://arxiv.org/abs/2011.13313)|Segmentation|[Code](https://github.com/Katexiang/EAFNet)|
+|2021|Arxiv|[Deep Snapshot HDR Reconstruction Based on the Polarization Camera](https://arxiv.org/abs/2105.05824)|HDR||
