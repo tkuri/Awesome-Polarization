@@ -34,6 +34,7 @@
 |2020|ECCV|[Polarized Optical-Flow Gyroscope](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2559_ECCV_2020_paper.php)|Gyroscope||
 |2020|ECCV|[Polarimetric Multi-View Inverse Rendering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4522_ECCV_2020_paper.php)|3D Shape||
 |2021|CVPR|[Polarimetric Normal Stereo](https://openaccess.thecvf.com/content/CVPR2021/papers/Fukao_Polarimetric_Normal_Stereo_CVPR_2021_paper.pdf)|3D Shape||
+|2021|SIGGRAPH ASIA|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|App|Repo|
