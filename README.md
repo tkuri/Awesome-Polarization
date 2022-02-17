@@ -93,4 +93,4 @@
 |2020|Arxiv|[Polarization-driven Semantic Segmentation via Efficient Attention-bridged Fusion](https://arxiv.org/abs/2011.13313)|Segmentation|[Code](https://github.com/Katexiang/EAFNet)|
 |2021|Arxiv|[Deep Snapshot HDR Reconstruction Based on the Polarization Camera](https://arxiv.org/abs/2105.05824)|HDR||
 |2021|Arxiv|[Human Pose and Shape Estimation from Single Polarization Images](https://arxiv.org/abs/2108.06834)|Pose Estimation||
-|2021|Arxiv|[Shape from Polarization for Complex Scenes in the Wild](https://arxiv.org/abs/2112.11377)|3D Shape||
+|2021|Arxiv|[Shape from Polarization for Complex Scenes in the Wild](https://arxiv.org/abs/2112.11377)|3D Shape|[Code & Dataset](https://github.com/ChenyangLEI/sfp-wild)|
