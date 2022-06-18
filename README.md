@@ -36,6 +36,7 @@
 |2021|CVPR|[Polarimetric Normal Stereo](https://openaccess.thecvf.com/content/CVPR2021/papers/Fukao_Polarimetric_Normal_Stereo_CVPR_2021_paper.pdf)|3D Shape||
 |2021|CVPR|[Shape From Sky: Polarimetric Normal Recovery Under the Sky](https://openaccess.thecvf.com/content/CVPR2021/html/Ichikawa_Shape_From_Sky_Polarimetric_Normal_Recovery_Under_the_Sky_CVPR_2021_paper.html)|3D Shape||
 |2021|SIGGRAPH ASIA|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
+|2022|CVPR|[Degree-of-Linear-Polarization-Based Color Constancy](https://openaccess.thecvf.com/content/CVPR2022/html/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.html)|White Balance|[Code & Dataset](https://github.com/sony/dolp-colorconstancy)|
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|App|Repo|
