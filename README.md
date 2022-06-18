@@ -12,7 +12,7 @@
 - [Miscellaneous (DL)](#miscellaneous-dl)
 
 ## Polarization Imaging (non-DL)
-|Year|Pub|Paper|App|Repo|
+|Year|Pub|Paper|Application|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2010|SIGGRAPH ASIA|[Circularly Polarized Spherical Illumination Reflectometry](https://ict.usc.edu/pubs/Circularly%20Polarized%20Spherical%20Illumination%20Reflectometry.pdf)|Rendering||
 |2011|SIGGRAPH ASIA|[Multiview Face Capture using Polarized Spherical Gradient Illumination](https://ict.usc.edu/pubs/Multiview%20Face%20Capture%20using%20Polarized%20Spherical%20Gradient%20Illumination.pdf)|Rendering / 3D Shape||
@@ -39,7 +39,7 @@
 |2022|CVPR|[Degree-of-Linear-Polarization-Based Color Constancy](https://openaccess.thecvf.com/content/CVPR2022/html/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.html)|White Balance|[Code & Dataset](https://github.com/sony/dolp-colorconstancy)|
 
 ## Polarization Imaging (DL)
-|Year|Pub|Paper|App|Repo|
+|Year|Pub|Paper|Application|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2019|NeurIPS|[Reflection Separation using a Pair of Unpolarized and Polarized Images](https://papers.nips.cc/paper/2019/file/d47bf0af618a3523a226ed7cada85ce3-Paper.pdf)|Reflection Removal|[Code & Dataset](https://github.com/YouweiLyu/reflection_separation_with_un-polarized_images)|
 |2020|CVPR|[Polarized Reflection Removal With Perfect Alignment in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/html/Lei_Polarized_Reflection_Removal_With_Perfect_Alignment_in_the_Wild_CVPR_2020_paper.html)|Reflection Removal|[Code & Dataset](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment)|
