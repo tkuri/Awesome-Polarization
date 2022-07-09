@@ -85,6 +85,7 @@
 |2021|Arxiv|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
 |2021|OSA|[Analysis of signal-to-noise ratio of angle of polarization and degree of polarization](https://www.osapublishing.org/osac/fulltext.cfm?uri=osac-4-5-1461&id=450463)|Theory||
 |2021|Arxiv|[Next-generation perception system for automated defects detection in composite laminates via polarized computational imaging](https://arxiv.org/abs/2108.10819)|Defects Detection||
+|2022|Applied Optics|[Calibration of a polarization image sensor and investigation of influencing factors](https://opg.optica.org/ao/fulltext.cfm?uri=ao-61-6-C37&id=462441)|Calibration||
 
 ## Miscellaneous (DL)
 |Year|Pub|Paper|Obj|Repo|
