@@ -51,7 +51,8 @@
 |2021|CVPR|[Deep Polarization Imaging for 3D shape and SVBRDF Acquisition](https://arxiv.org/abs/2105.02875v1)|Rendering / 3D Shape|[Code & Dataset](https://wp.doc.ic.ac.uk/rgi/project/deep-polarization-3d-imaging/)|
 |2021|ICIP|[Deep Snapshot Hdr Reconstruction Based On The Polarization Camera](https://ieeexplore.ieee.org/document/9506314)|HDR||
 |2022|CVPR|[Shape From Polarization for Complex Scenes in the Wild](https://openaccess.thecvf.com/content/CVPR2022/html/Lei_Shape_From_Polarization_for_Complex_Scenes_in_the_Wild_CVPR_2022_paper.html)|3D Shape|[Code & Dataset](https://chenyanglei.github.io/sfpwild/index.html)|
-|2022|CVPR|[Glass Segmentation Using Intensity and Spectral Polarization Cues](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Glass_Segmentation_Using_Intensity_and_Spectral_Polarization_Cues_CVPR_2022_paper.html)|Segmentation|[Code & Dataset](https://mhaiyang.github.io/CVPR2022_PGSNet/)|
+|2022|CVPR|[Glass Segmentation Using Intensity and Spectral Polarization Cues](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Glass_Segmentation_Using_Intensity_and_Spectral_Polarization_Cues_CVPR_2022_paper.html)|Glass Segmentation|[Code & Dataset](https://mhaiyang.github.io/CVPR2022_PGSNet/)|
+|2022|CVPR|[Multimodal Material Segmentation](https://vision.ist.i.kyoto-u.ac.jp/research/mcubes/)|Material Segmentation|[Code & Dataset](https://github.com/kyotovision-public/multimodal-material-segmentation)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
