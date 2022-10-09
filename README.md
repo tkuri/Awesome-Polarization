@@ -38,6 +38,7 @@
 |2021|SIGGRAPH ASIA|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
 |2022|CVPR|[Degree-of-Linear-Polarization-Based Color Constancy](https://openaccess.thecvf.com/content/CVPR2022/html/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.html)|White Balance|[Code & Dataset](https://github.com/sony/dolp-colorconstancy)|
 |2022|ICCP|[PS2F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing](https://arxiv.org/pdf/2207.00945.pdf)|Microscope||
+|2022|SIGGRAPH|[Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography](https://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-main-final.pdf)|Rendering / 3D Shape|[Code](https://github.com/KAIST-VCLAB/SparseEllipsometry)|
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
