@@ -37,7 +37,7 @@
 |2021|CVPR|[Shape From Sky: Polarimetric Normal Recovery Under the Sky](https://openaccess.thecvf.com/content/CVPR2021/html/Ichikawa_Shape_From_Sky_Polarimetric_Normal_Recovery_Under_the_Sky_CVPR_2021_paper.html)|3D Shape||
 |2021|SIGGRAPH ASIA|[Polarimetric Spatio-Temporal Light Transport Probing](https://arxiv.org/abs/2105.11609)|Transient Imaging||
 |2022|CVPR|[Degree-of-Linear-Polarization-Based Color Constancy](https://openaccess.thecvf.com/content/CVPR2022/html/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.html)|White Balance|[Code & Dataset](https://github.com/sony/dolp-colorconstancy)|
-|2022|ICCP|[PS2F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing](https://arxiv.org/pdf/2207.00945.pdf)||Microscope|
+|2022|ICCP|[PS2F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing](https://arxiv.org/pdf/2207.00945.pdf)|Microscope||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
@@ -54,7 +54,7 @@
 |2022|CVPR|[Shape From Polarization for Complex Scenes in the Wild](https://openaccess.thecvf.com/content/CVPR2022/html/Lei_Shape_From_Polarization_for_Complex_Scenes_in_the_Wild_CVPR_2022_paper.html)|3D Shape|[Code & Dataset](https://chenyanglei.github.io/sfpwild/index.html)|
 |2022|CVPR|[Glass Segmentation Using Intensity and Spectral Polarization Cues](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Glass_Segmentation_Using_Intensity_and_Spectral_Polarization_Cues_CVPR_2022_paper.html)|Glass Segmentation|[Code & Dataset](https://mhaiyang.github.io/CVPR2022_PGSNet/)|
 |2022|CVPR|[Multimodal Material Segmentation](https://vision.ist.i.kyoto-u.ac.jp/research/mcubes/)|Material Segmentation|[Code & Dataset](https://github.com/kyotovision-public/multimodal-material-segmentation)|
-|2022|ICIP|[Two-Step Color-Polarization Demosaicking Network](http://www.ok.sc.e.titech.ac.jp/res/PolarDem/TCPDNet.html)||Demosaicking|
+|2022|ICIP|[Two-Step Color-Polarization Demosaicking Network](http://www.ok.sc.e.titech.ac.jp/res/PolarDem/TCPDNet.html)|Demosaicking||
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
