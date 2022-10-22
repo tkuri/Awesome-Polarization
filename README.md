@@ -56,6 +56,8 @@
 |2022|CVPR|[Glass Segmentation Using Intensity and Spectral Polarization Cues](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Glass_Segmentation_Using_Intensity_and_Spectral_Polarization_Cues_CVPR_2022_paper.html)|Glass Segmentation|[Code & Dataset](https://mhaiyang.github.io/CVPR2022_PGSNet/)|
 |2022|CVPR|[Multimodal Material Segmentation](https://vision.ist.i.kyoto-u.ac.jp/research/mcubes/)|Material Segmentation|[Code & Dataset](https://github.com/kyotovision-public/multimodal-material-segmentation)|
 |2022|ICIP|[Two-Step Color-Polarization Demosaicking Network](http://www.ok.sc.e.titech.ac.jp/res/PolarDem/TCPDNet.html)|Demosaicking||
+|2022|ECCV|[PANDORA: Polarization-Aided Neural Decomposition Of Radiance](https://akshatdave.github.io/pandora/)|3D Shape|[Code](https://github.com/akshatdave/pandora) / Dataset(https://drive.google.com/file/d/1FvOi_2wfSUnASHulQdBhHQcQCxOuJ8zz/view)|
+|2022|ECCV|[Polarimetric Pose Prediction](https://daoyig.github.io/PPPNet/)|Pose Prediction|[Code](https://github.com/DaoyiG/polarimetric-pose-prediction) / Dataset(https://www.campar.in.tum.de/public_datasets/2022_eccv_ruhkamp/README.html)|
 |2023|WACV|[Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)|New Sensor Array|[Code & Dataset](https://github.com/sony/polar-densification)|
 
 ## Miscellaneous (non-DL)
