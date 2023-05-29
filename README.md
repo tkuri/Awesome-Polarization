@@ -60,6 +60,7 @@
 |2022|ECCV|[PANDORA: Polarization-Aided Neural Decomposition Of Radiance](https://akshatdave.github.io/pandora/)|3D Shape|[Code](https://github.com/akshatdave/pandora) / [Dataset](https://drive.google.com/file/d/1FvOi_2wfSUnASHulQdBhHQcQCxOuJ8zz/view)|
 |2022|ECCV|[Polarimetric Pose Prediction](https://daoyig.github.io/PPPNet/)|Pose Prediction|[Code](https://github.com/DaoyiG/polarimetric-pose-prediction) / [Dataset](https://www.campar.in.tum.de/public_datasets/2022_eccv_ruhkamp/README.html)|
 |2023|WACV|[Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)|New Sensor Array|[Code & Dataset](https://github.com/sony/polar-densification)|
+|2023|CVPR|[Polarized Color Image Denoising](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Polarized_Color_Image_Denoising_CVPR_2023_paper.html)|Denoising|[Code & Dataset](https://github.com/bandasyou/pcdenoise)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
