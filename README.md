@@ -61,6 +61,9 @@
 |2022|ECCV|[Polarimetric Pose Prediction](https://daoyig.github.io/PPPNet/)|Pose Prediction|[Code](https://github.com/DaoyiG/polarimetric-pose-prediction) / [Dataset](https://www.campar.in.tum.de/public_datasets/2022_eccv_ruhkamp/README.html)|
 |2023|WACV|[Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)|New Sensor Array|[Code & Dataset](https://github.com/sony/polar-densification)|
 |2023|CVPR|[Polarized Color Image Denoising](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Polarized_Color_Image_Denoising_CVPR_2023_paper.html)|Denoising|[Code & Dataset](https://github.com/bandasyou/pcdenoise)|
+|2023|ICCV|[DPS-Net: Deep Polarimetric Stereo Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/html/Tian_DPS-Net_Deep_Polarimetric_Stereo_Depth_Estimation_ICCV_2023_paper.html)|3D Shape||
+|2023|ICCV|[Transparent Shape from a Single View Polarization Image](https://openaccess.thecvf.com/content/ICCV2023/html/Shao_Transparent_Shape_from_a_Single_View_Polarization_Image_ICCV_2023_paper.html)|3D Shape|[Code & Dataset](https://github.com/shaomq2187/TransSfP)|
+|2023|ICCV|[Multi-view Spectral Polarization Propagation for Video Glass Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Qiao_Multi-view_Spectral_Polarization_Propagation_for_Video_Glass_Segmentation_ICCV_2023_paper.html)|Transparent Segmentation||
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
