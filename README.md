@@ -110,3 +110,4 @@
 |2021|Arxiv|[Deep Snapshot HDR Reconstruction Based on the Polarization Camera](https://arxiv.org/abs/2105.05824)|HDR||
 |2021|Arxiv|[Human Pose and Shape Estimation from Single Polarization Images](https://arxiv.org/abs/2108.06834)|Pose Estimation||
 |2022|CVIU|[Physically-admissible polarimetric data augmentation for road-scene analysis](https://www.sciencedirect.com/science/article/abs/pii/S1077314222000959)|Data Augmentation||
+|2023|Arxiv|[Polarimetric Imaging for Perception](https://arxiv.org/abs/2305.14787)|Road Detection||
