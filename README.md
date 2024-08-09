@@ -40,6 +40,8 @@
 |2022|ICCP|[PS2F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing](https://arxiv.org/pdf/2207.00945.pdf)|Microscope||
 |2022|SIGGRAPH|[Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography](https://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-main-final.pdf)|Rendering / 3D Shape|[Code](https://github.com/KAIST-VCLAB/SparseEllipsometry)|
 |2022|ECCV|[Perspective Phase Angle Model for Polarimetric 3D Reconstruction](https://arxiv.org/abs/2207.09629v2)|3D Shape|[Code](https://github.com/gcchen97/ppa4p3d)|
+|2023|CVPR|[Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media](https://openaccess.thecvf.com/content/CVPR2023/papers/Jeon_Polarimetric_iToF_Measuring_High-Fidelity_Depth_Through_Scattering_Media_CVPR_2023_paper.pdf)|3D Shape||
+|2023|CVPR|[High-Res Facial Appearance Capture from Polarized Smartphone Images](https://arxiv.org/pdf/2212.01160)|Rendering / 3D Shape||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
@@ -61,8 +63,6 @@
 |2022|ECCV|[Polarimetric Pose Prediction](https://daoyig.github.io/PPPNet/)|Pose Prediction|[Code](https://github.com/DaoyiG/polarimetric-pose-prediction) / [Dataset](https://www.campar.in.tum.de/public_datasets/2022_eccv_ruhkamp/README.html)|
 |2023|WACV|[Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)|New Sensor Array|[Code & Dataset](https://github.com/sony/polar-densification)|
 |2023|CVPR|[Polarized Color Image Denoising](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Polarized_Color_Image_Denoising_CVPR_2023_paper.html)|Denoising|[Code & Dataset](https://github.com/bandasyou/pcdenoise)|
-|2023|CVPR|[High-Res Facial Appearance Capture from Polarized Smartphone Images](https://arxiv.org/pdf/2212.01160)|Rendering / 3D Shape||
-|2023|CVPR|[Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media](https://openaccess.thecvf.com/content/CVPR2023/papers/Jeon_Polarimetric_iToF_Measuring_High-Fidelity_Depth_Through_Scattering_Media_CVPR_2023_paper.pdf)|3D Shape||
 |2023|ICCV|[DPS-Net: Deep Polarimetric Stereo Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/html/Tian_DPS-Net_Deep_Polarimetric_Stereo_Depth_Estimation_ICCV_2023_paper.html)|3D Shape||
 |2023|ICCV|[Transparent Shape from a Single View Polarization Image](https://openaccess.thecvf.com/content/ICCV2023/html/Shao_Transparent_Shape_from_a_Single_View_Polarization_Image_ICCV_2023_paper.html)|3D Shape|[Code & Dataset](https://github.com/shaomq2187/TransSfP)|
 |2023|ICCV|[Multi-view Spectral Polarization Propagation for Video Glass Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Qiao_Multi-view_Spectral_Polarization_Propagation_for_Video_Glass_Segmentation_ICCV_2023_paper.html)|Transparent Segmentation||
