@@ -43,6 +43,7 @@
 |2024|WACV|[Polarimetric PatchMatch Multi-View Stereo](https://openaccess.thecvf.com/content/WACV2024/html/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.html)|3D Shape|[Code](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)|
 |2024|CVPR|[SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing](https://vision.ist.i.kyoto-u.ac.jp/research/spiders/)|3D Shape / Relighting||
 |2024|CVPR|[Spectral and Polarization Vision:Spectro-polarimetric Real-world Dataset](https://eschoi.com/SPDataset/)|Dataset|[Dataset](https://huggingface.co/datasets/jyj7913/spectro-polarimetric)|
+|2024|CVPR|[PolarMatte: Fully Computational Ground-Truth-Quality Alpha Matte Extraction for Images and Video using Polarized Screen Matting](https://openaccess.thecvf.com/content/CVPR2024/html/Enomoto_PolarMatte_Fully_Computational_Ground-Truth-Quality_Alpha_Matte_Extraction_for_Images_and_CVPR_2024_paper.html)|Matting||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
