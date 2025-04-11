@@ -81,6 +81,7 @@
 |2024|AAAI|[Exploiting Polarized Material Cues for Robust Car Detection](https://arxiv.org/abs/2401.02606)|Car detection|[Code & Dataset](https://github.com/wind1117/AAAI24-PCDNet)|
 |2024|ECCV|[Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)|Translucent 3D Shape|[Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering)|
 |2024|ECCV|[PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01284.pdf)|3D Shape|[Code](https://github.com/GCChen97/PISR)|
+|2025|CVPR|[PolarFree: Polarization-based Reflection-Free Imaging](https://github.com/mdyao/PolarFree)|Reflection removal|[Code & Dataset](https://github.com/mdyao/PolarFree)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
