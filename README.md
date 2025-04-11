@@ -40,6 +40,8 @@
 |2022|ICCP|[PS2F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing](https://arxiv.org/pdf/2207.00945.pdf)|Microscope||
 |2022|SIGGRAPH|[Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography](https://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-main-final.pdf)|Rendering / 3D Shape|[Code](https://github.com/KAIST-VCLAB/SparseEllipsometry)|
 |2022|ECCV|[Perspective Phase Angle Model for Polarimetric 3D Reconstruction](https://arxiv.org/abs/2207.09629v2)|3D Shape|[Code](https://github.com/gcchen97/ppa4p3d)|
+|2024|WACV|[Polarimetric PatchMatch Multi-View Stereo](https://openaccess.thecvf.com/content/WACV2024/html/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.html)|3D Shape|[Code](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)|
+|2024|CVPR|[SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing](https://vision.ist.i.kyoto-u.ac.jp/research/spiders/)|3D Shape / Relighting||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
