@@ -69,6 +69,7 @@
 |2023|ICCV|[Multi-view Spectral Polarization Propagation for Video Glass Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Qiao_Multi-view_Spectral_Polarization_Propagation_for_Video_Glass_Segmentation_ICCV_2023_paper.html)|Transparent Segmentation||
 |2024|CVPR|[Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts](https://light.princeton.edu/publication/pollidar/)|3D Shape|[Code](https://github.com/princeton-computational-imaging/PolLidar)|
 |2024|CVPR|[Fooling Polarization-Based Vision using Locally Controllable Polarizing Projection](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html)|Fooling||
+|2024|CVPR|[https://yu-fei-han.github.io/NeRSP-project/](https://yu-fei-han.github.io/NeRSP-project/)|3D Shape|[Code & Dataset](https://github.com/PRIS-CV/NeRSP)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
