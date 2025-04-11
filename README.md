@@ -71,14 +71,12 @@
 |2023|ICCV|[Transparent Shape from a Single View Polarization Image](https://openaccess.thecvf.com/content/ICCV2023/html/Shao_Transparent_Shape_from_a_Single_View_Polarization_Image_ICCV_2023_paper.html)|3D Shape|[Code & Dataset](https://github.com/shaomq2187/TransSfP)|
 |2023|ICCV|[Multi-view Spectral Polarization Propagation for Video Glass Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Qiao_Multi-view_Spectral_Polarization_Propagation_for_Video_Glass_Segmentation_ICCV_2023_paper.html)|Transparent Segmentation||
 |2023|SIGGRAPH ASIA|[Neural Spectro-polarimetric Fields](https://arxiv.org/abs/2306.12562)|View Synthesis|[Code & Dataset](https://github.com/youngchan-k/NeSpoF)|
-|2024|CVPR|[NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_NeRSP_Neural_3D_Reconstruction_for_Reflective_Objects_with_Sparse_Polarized_CVPR_2024_paper.pdf)|3D Shape|[Code & Dataset](https://github.com/PRIS-CV/NeRSP)|
-|2024|CVPR|[Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts](https://openaccess.thecvf.com/content/CVPR2024/papers/Scheuble_Polarization_Wavefront_Lidar_Learning_Large_Scene_Reconstruction_from_Polarized_Wavefronts_CVPR_2024_paper.pdf)|3D Shape|[Code & Dataset (to appear)](https://github.com/princeton-computational-imaging/PolLidar)|
 |2024|CVPR|[Robust Depth Enhancement via Polarization Prompt Fusion Tuning](https://arxiv.org/abs/2404.04318)|3D Shape|[Code & Dataset](https://github.com/lastbasket/Polarization-Prompt-Fusion-Tuning)|
 |2024|CVPR|[NeISF: Neural Incident Stokes Field for Geometry and Material Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Li_NeISF_Neural_Incident_Stokes_Field_for_Geometry_and_Material_Estimation_CVPR_2024_paper.html)|Rendering / 3D Shape|[Code & Dataset](https://github.com/sony/NeISF)|
-|2024|ECCV|[Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)|Translucent 3D Shape|[Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering)|
 |2024|CVPR|[Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts](https://light.princeton.edu/publication/pollidar/)|3D Shape|[Code](https://github.com/princeton-computational-imaging/PolLidar)|
 |2024|CVPR|[Fooling Polarization-Based Vision using Locally Controllable Polarizing Projection](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html)|Fooling||
 |2024|CVPR|[NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images](https://yu-fei-han.github.io/NeRSP-project/)|3D Shape|[Code & Dataset](https://github.com/PRIS-CV/NeRSP)|
+|2024|ECCV|[Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)|Translucent 3D Shape|[Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
