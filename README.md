@@ -76,6 +76,7 @@
 |2024|CVPR|[Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts](https://light.princeton.edu/publication/pollidar/)|3D Shape|[Code](https://github.com/princeton-computational-imaging/PolLidar)|
 |2024|CVPR|[Fooling Polarization-Based Vision using Locally Controllable Polarizing Projection](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html)|Fooling||
 |2024|CVPR|[NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images](https://yu-fei-han.github.io/NeRSP-project/)|3D Shape|[Code & Dataset](https://github.com/PRIS-CV/NeRSP)|
+|2024|CVPR|[Learning to Remove Wrinkled Transparent Film with Polarized Prior](https://jqt.me/_FilmRemoval_/)|Film removal|[Code & Dataset](https://github.com/jqtangust/FilmRemoval)|
 |2024|ECCV|[Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)|Translucent 3D Shape|[Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering)|
 
 ## Miscellaneous (non-DL)
