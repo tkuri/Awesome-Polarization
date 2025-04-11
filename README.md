@@ -42,6 +42,7 @@
 |2022|ECCV|[Perspective Phase Angle Model for Polarimetric 3D Reconstruction](https://arxiv.org/abs/2207.09629v2)|3D Shape|[Code](https://github.com/gcchen97/ppa4p3d)|
 |2024|WACV|[Polarimetric PatchMatch Multi-View Stereo](https://openaccess.thecvf.com/content/WACV2024/html/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.html)|3D Shape|[Code](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)|
 |2024|CVPR|[SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing](https://vision.ist.i.kyoto-u.ac.jp/research/spiders/)|3D Shape / Relighting||
+|2024|CVPR|[Spectral and Polarization Vision:Spectro-polarimetric Real-world Dataset](https://eschoi.com/SPDataset/)|Dataset|[Dataset](https://huggingface.co/datasets/jyj7913/spectro-polarimetric)|
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
