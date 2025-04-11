@@ -78,6 +78,7 @@
 |2024|CVPR|[NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images](https://yu-fei-han.github.io/NeRSP-project/)|3D Shape|[Code & Dataset](https://github.com/PRIS-CV/NeRSP)|
 |2024|CVPR|[Learning to Remove Wrinkled Transparent Film with Polarized Prior](https://jqt.me/_FilmRemoval_/)|Film removal|[Code & Dataset](https://github.com/jqtangust/FilmRemoval)|
 |2024|ECCV|[Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)|Translucent 3D Shape|[Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering)|
+|2024|ECCV|[PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01284.pdf)|3D Shape|[Code](https://github.com/GCChen97/PISR)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
