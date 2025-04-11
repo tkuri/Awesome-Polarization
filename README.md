@@ -42,6 +42,10 @@
 |2022|ECCV|[Perspective Phase Angle Model for Polarimetric 3D Reconstruction](https://arxiv.org/abs/2207.09629v2)|3D Shape|[Code](https://github.com/gcchen97/ppa4p3d)|
 |2023|CVPR|[Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media](https://openaccess.thecvf.com/content/CVPR2023/papers/Jeon_Polarimetric_iToF_Measuring_High-Fidelity_Depth_Through_Scattering_Media_CVPR_2023_paper.pdf)|3D Shape||
 |2023|CVPR|[High-Res Facial Appearance Capture from Polarized Smartphone Images](https://arxiv.org/pdf/2212.01160)|Rendering / 3D Shape||
+|2024|WACV|[Polarimetric PatchMatch Multi-View Stereo](https://openaccess.thecvf.com/content/WACV2024/html/Zhao_Polarimetric_PatchMatch_Multi-View_Stereo_WACV_2024_paper.html)|3D Shape|[Code](http://www.ok.sc.e.titech.ac.jp/res/PolarPMS/)|
+|2024|CVPR|[SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing](https://vision.ist.i.kyoto-u.ac.jp/research/spiders/)|3D Shape / Relighting||
+|2024|CVPR|[Spectral and Polarization Vision:Spectro-polarimetric Real-world Dataset](https://eschoi.com/SPDataset/)|Dataset|[Dataset](https://huggingface.co/datasets/jyj7913/spectro-polarimetric)|
+|2024|CVPR|[PolarMatte: Fully Computational Ground-Truth-Quality Alpha Matte Extraction for Images and Video using Polarized Screen Matting](https://openaccess.thecvf.com/content/CVPR2024/html/Enomoto_PolarMatte_Fully_Computational_Ground-Truth-Quality_Alpha_Matte_Extraction_for_Images_and_CVPR_2024_paper.html)|Matting||
 
 ## Polarization Imaging (DL)
 |Year|Pub|Paper|Application|Repo|
@@ -72,6 +76,9 @@
 |2024|CVPR|[Robust Depth Enhancement via Polarization Prompt Fusion Tuning](https://arxiv.org/abs/2404.04318)|3D Shape|[Code & Dataset](https://github.com/lastbasket/Polarization-Prompt-Fusion-Tuning)|
 |2024|CVPR|[NeISF: Neural Incident Stokes Field for Geometry and Material Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Li_NeISF_Neural_Incident_Stokes_Field_for_Geometry_and_Material_Estimation_CVPR_2024_paper.html)|Rendering / 3D Shape|[Code & Dataset](https://github.com/sony/NeISF)|
 |2024|ECCV|[Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)|Translucent 3D Shape|[Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering)|
+|2024|CVPR|[Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts](https://light.princeton.edu/publication/pollidar/)|3D Shape|[Code](https://github.com/princeton-computational-imaging/PolLidar)|
+|2024|CVPR|[Fooling Polarization-Based Vision using Locally Controllable Polarizing Projection](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html)|Fooling||
+|2024|CVPR|[NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images](https://yu-fei-han.github.io/NeRSP-project/)|3D Shape|[Code & Dataset](https://github.com/PRIS-CV/NeRSP)|
 
 ## Miscellaneous (non-DL)
 |Year|Pub|Paper|Obj|Repo|
